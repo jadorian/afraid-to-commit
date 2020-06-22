@@ -32,7 +32,7 @@ PyCon Ireland in Dublin, 26th October 2015
 * Sarah Jackson
 * Stefano Fedele https://github.com/stefanofedele/afraid-to-commit
 * Barry Kennedy https://github.com/bazkennedy
-
+* Jadorian Paul https://github.com/jadorian
 
 PyCon UK in Coventry, 21st September 2015
 -----------------------------------------
@@ -306,6 +306,7 @@ DjangoCon Europe in Warsaw, 18th May 2013
 * schacki
 * Michał Karzyński <djangoconwrkshp@karzyn.com> https://github.com/postrational
 * @graup
+* Jadorian Paul 
 
 I followed the tutorial online
 ==============================
